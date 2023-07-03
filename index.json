@@ -1,0 +1,119 @@
+{
+    "education": [
+       
+        {
+            "id": 1,
+            "year": 2022,
+            "description": "Completed my Consolidated Microsoft",
+            "place": "LinkedIn learning",
+            "type": "certificate",
+            "certificate": ""
+        },
+        {
+            "id": 2,
+            "year": 2020,
+            "description": "Completed my course in Graphic Designing",
+            "place": "Softech Computers",
+            "type": "Certificate",
+            "certificate": ""
+        },
+        {
+            "id": 3,
+            "year": 2019,
+            "description": "Completed my course in Fundamentals of Digital Marketing",
+            "place": "Google Digital Garage",
+            "type": "Certificate",
+            "certificate": ""
+        },
+       
+        {
+            "id": 4,
+            "year": 2018,
+            "description": "Completed my course in Public Relations",
+            "place": "Walter Sisulu University",
+            "type": "Btech",
+            "certificate": ""
+        },
+        {
+            "id": 5,
+            "year": 2014,
+            "description": "Grade 12",
+            "place": "",
+            "type": "Certificate",
+            "certificate": ""
+        }
+      
+    ],
+    "projects": [
+          {
+            "id": 1,
+            "name":"BMI Calculator",
+            "url": "https://github.com/0731520994/BMI-calculator",
+          }
+          {
+            "id": 2,
+            "name":"To-do-list",
+            "url": "https://github.com/0731520994/TodoList",
+          }
+          {
+            "id": 3,
+            "name":"E-commerce",
+            "url": "https://github.com/0731520994/E-commerce",
+          }
+          {
+            "id": 4,
+            "name":"Calender",
+            "url": "https://github.com/0731520994/Bootstrap-calender",
+          }
+    ],
+     "testimonials": [
+       
+        {
+        
+            "id": 1,
+            "image": "https://i.postimg.cc/HxX9WbWv/Imraan-1.jpg",
+            "name": "Imraan Bernksen",
+            "description": "I highly recommend Mongikazi, an aspiring web developer with a passion for creating stunning and functional websites. Mongikazi has a strong foundation in programming languages such as HTML, CSS, and Bootstrap and is constantly learning and staying up-to-date with the latest technologies. Their attention to detail and commitment to delivering high-quality work make them an excellent choice for any web development project."
+        
+        },
+        {
+        
+            "id": 2,
+            "image":"https://i.postimg.cc/xT8D8dHy/Screenshot-2023-05-09-134800.png",
+            "name": "Rabia Haucha",
+            "description": "If I should describe MONGIKAZI in one word it would be "INDEPENDENT". She is really a strong women and does what she must in order to meet her standards. She is really well mannered and quiet but her work surely speaks for her .She is also pretty stylish and should get best dressed, But one thing about her, she is never afraid of asking for help to better herself and her skills. She is willing and open to learning new things and to meet the companies requirements so it wouldn't be bad to pick her and let her grow with your company I assure you she wouldn't be a waste of your time.",
+        
+        },
+       
+        
+        {
+        
+            "id": 3,
+            "image":"https://i.postimg.cc/T1rxcNdj/C12-C2-Thabang-Kganana-1.jpg",
+            "name":"Thabang Kganana" ,
+            "description": ">Mongikazi is a hardworking women , who finds ways to improve her craft through perseverance. She is strong when it comes to solving and providing solutions to problems we may have in a group environment. Asking thought provoking questions leads to her improving at an alarming rate at this institution. Great teamplayer"
+        
+        },
+        
+        {
+        
+            "id": 4,
+            "image": "https://i.postimg.cc/yNFTsF8Q/C12-C2-Siyamanga-Zweni-3.jpg",
+            "name":"Siyamanga Zweni" ,
+            "description": "Mongikazi is an exceptional learner with a keen eye for detail, She is also an excellent team player who always goes above and beyond to support her fellow students. Her smile always brightens up the room . She is warm and loving. Her determination and willingness to collaborate makes her a valuable asset to any project team. I have no doubt that she will continue to excel in her career and make meaningful contributions to the field of technology"
+        
+        },
+     
+        {
+        
+            "id": 5,
+            "image":"https://i.postimg.cc/zG9191yw/Ayabulela-Sityata-2.jpg",
+            "name": "Ayabulela Sityata" ,
+            "description":"Mongikazi is calm, focused, independent person. She is down to earth, good team-player and works well indendently. She is always willing to know more, to help others and to do better. She is a hard-worker." 
+        
+        }
+     ]
+    }
+
+
+
