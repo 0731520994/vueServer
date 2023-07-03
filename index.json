@@ -48,22 +48,22 @@
           {
             "id": 1,
             "name":"BMI Calculator",
-            "url": "https://github.com/0731520994/BMI-calculator",
-          }
+            "url": "https://github.com/0731520994/BMI-calculator"
+          },
           {
             "id": 2,
             "name":"To-do-list",
-            "url": "https://github.com/0731520994/TodoList",
-          }
+            "url": "https://github.com/0731520994/TodoList"
+          },
           {
             "id": 3,
             "name":"E-commerce",
-            "url": "https://github.com/0731520994/E-commerce",
-          }
+            "url": "https://github.com/0731520994/E-commerce"
+          },
           {
             "id": 4,
             "name":"Calender",
-            "url": "https://github.com/0731520994/Bootstrap-calender",
+            "url": "https://github.com/0731520994/Bootstrap-calender"
           }
     ],
      "testimonials": [
@@ -74,14 +74,13 @@
             "image": "https://i.postimg.cc/HxX9WbWv/Imraan-1.jpg",
             "name": "Imraan Bernksen",
             "description": "I highly recommend Mongikazi, an aspiring web developer with a passion for creating stunning and functional websites. Mongikazi has a strong foundation in programming languages such as HTML, CSS, and Bootstrap and is constantly learning and staying up-to-date with the latest technologies. Their attention to detail and commitment to delivering high-quality work make them an excellent choice for any web development project."
-        
         },
         {
         
             "id": 2,
             "image":"https://i.postimg.cc/xT8D8dHy/Screenshot-2023-05-09-134800.png",
             "name": "Rabia Haucha",
-            "description": "If I should describe MONGIKAZI in one word it would be "INDEPENDENT". She is really a strong women and does what she must in order to meet her standards. She is really well mannered and quiet but her work surely speaks for her .She is also pretty stylish and should get best dressed, But one thing about her, she is never afraid of asking for help to better herself and her skills. She is willing and open to learning new things and to meet the companies requirements so it wouldn't be bad to pick her and let her grow with your company I assure you she wouldn't be a waste of your time.",
+            "description": "If I should describe MONGIKAZI in one word it would be 'INDEPENDENT'. She is really a strong women and does what she must in order to meet her standards. She is really well mannered and quiet but her work surely speaks for her .She is also pretty stylish and should get best dressed, But one thing about her, she is never afraid of asking for help to better herself and her skills. She is willing and open to learning new things and to meet the companies requirements so it wouldn't be bad to pick her and let her grow with your company I assure you she wouldn't be a waste of your time."
         
         },
        
@@ -113,7 +112,7 @@
         
         }
      ]
-    }
+}
 
 
 
