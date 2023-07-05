@@ -48,23 +48,34 @@
           {
             "id": 1,
             "name":"BMI Calculator",
-            "url": "https://github.com/0731520994/BMI-calculator"
+            "url": "https://i.postimg.cc/NFyMqYdR/bmi-body-mass-index-icon-bmi-calculator-green-and-blue-PNDWXA.jpg"
           },
           {
             "id": 2,
             "name":"To-do-list",
-            "url": "https://github.com/0731520994/TodoList"
+            "image": "https://i.postimg.cc/XvWsDYsB/to-do.jpg"
           },
           {
             "id": 3,
             "name":"E-commerce",
-            "url": "https://github.com/0731520994/E-commerce"
+            "image": "https://i.postimg.cc/cJ6vWQ9p/E-com.jpg"
           },
           {
             "id": 4,
             "name":"Calender",
-            "url": "https://github.com/0731520994/Bootstrap-calender"
+            "image": "https://i.postimg.cc/zXXbpZwD/Calendar.jpg"
+          },
+          {
+            "id": 5,
+            "name":"Bootstrap portfolio",
+            "image": "https://i.postimg.cc/L81hyzXv/portfolio.jpg"
+          },
+          {
+            "id": 6,
+            "name":"Calculator",
+            "image": "https://i.postimg.cc/nrjQpq3R/calcu.jpg"
           }
+
     ],
      "testimonials": [
        
