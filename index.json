@@ -4,10 +4,10 @@
         {
             "id": 1,
             "year": 2022,
-            "description": "Completed my Consolidated Microsoft",
+            "description": "Completed my Microsoft Consolidated certificate",
             "place": "LinkedIn learning",
             "type": "certificate",
-            "certificate": ""
+            "certificate": "https://drive.google.com/file/d/1O8rPkL_JqvbZbglpCFN6sUu7x4dAayDa/view?usp=drive_link"
         },
         {
             "id": 2,
@@ -15,7 +15,7 @@
             "description": "Completed my course in Graphic Designing",
             "place": "Softech Computers",
             "type": "Certificate",
-            "certificate": ""
+            "certificate": "https://drive.google.com/file/d/1b-qvIn37LBftWw21sZeuSbQ0kpwtEs2w/view?usp=drive_link"
         },
         {
             "id": 3,
@@ -23,7 +23,7 @@
             "description": "Completed my course in Fundamentals of Digital Marketing",
             "place": "Google Digital Garage",
             "type": "Certificate",
-            "certificate": ""
+            "certificate": "https://drive.google.com/file/d/18fGW9Dp4Cu0me61YehgGfEir0BwSwjDu/view?usp=drive_link"
         },
        
         {
@@ -38,9 +38,9 @@
             "id": 5,
             "year": 2014,
             "description": "Grade 12",
-            "place": "",
+            "place": "K.T Mchasa Senior Secindary School",
             "type": "Certificate",
-            "certificate": ""
+            "certificate": "https://drive.google.com/file/d/12GJP7PbVx8maxX7mB9qvBmqYwY5ipdwJ/view?usp=drive_link"
         }
       
     ],
