@@ -32,7 +32,7 @@
             "description": "Completed my course in Public Relations",
             "place": "Walter Sisulu University",
             "type": "Btech",
-            "certificate": ""
+            "certificate": "https://drive.google.com/file/d/1lw2yKBhJeTn5Y35RWTQps4u7hMI1qCnC/view?usp=drive_link"
         },
         {
             "id": 5,
@@ -49,37 +49,47 @@
             "id": 1,
             "name":"BMI Calculator",
             "image": "https://i.postimg.cc/9FRmdKcK/bmi.png",
-            "url": "https://dancing-paprenjak-0fd588.netlify.app"
+            "url": "https://dancing-paprenjak-0fd588.netlify.app",
+            "url1":"https://github.com/0731520994/BMI-calculator"
           },
           {
             "id": 2,
             "name":"To-do-list",
             "image": "https://i.postimg.cc/XvWsDYsB/to-do.jpg",
-            "url":"candid-melomakarona-ade922.netlify.app"
+            "url":"candid-melomakarona-ade922.netlify.app",
+            "url1":"https://euphonious-churros-5c3dd0.netlify.app"
+
           },
           {
             "id": 3,
             "name":"E-commerce",
             "image": "https://i.postimg.cc/cJ6vWQ9p/E-com.jpg",
-            "url":"https://jocular-kheer-9f1bb0.netlify.app"
+            "url":"https://jocular-kheer-9f1bb0.netlify.app",
+            "url1":"https://github.com/0731520994/E-commerce"
+
           },
           {
             "id": 4,
             "name":"Calender",
             "image": "https://i.postimg.cc/zXXbpZwD/Calendar.jpg",
-            "url":""
+            "url":"",
+            "url1":"https://github.com/0731520994/Bootstrap-calender"
+
           },
           {
             "id": 5,
             "name":"Bootstrap portfolio",
             "image": "https://i.postimg.cc/L81hyzXv/portfolio.jpg",
-            "url": "https://main--teal-raindrop-de3672.netlify.app/"
+            "url": "https://main--teal-raindrop-de3672.netlify.app/",
+            "url1":"https://github.com/0731520994/MongikaziDlanjwa_Portfolio"
+
           },
           {
             "id": 6,
             "name":"Calculator",
             "image": "https://i.postimg.cc/x8qzy5d5/calculator.jpg",
-            "url":"https://euphonious-churros-5c3dd0.netlify.app"
+            "url":"https://euphonious-churros-5c3dd0.netlify.app",
+            "url1":"https://github.com/0731520994/calculator",
           }
 
     ],
